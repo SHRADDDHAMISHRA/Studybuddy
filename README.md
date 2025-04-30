@@ -1,5 +1,7 @@
 StudyBuddy AI Learning Platform
 Link : studybuddy-orpin.vercel.app
+
+
 StudyBuddy is a modern web application designed to help students learn more effectively through AI-powered study tools, collaborative study groups, and progress tracking.
 
 Features
